@@ -10,7 +10,7 @@ OpenPrep gives students a question bank, short lessons and timed tests, then cha
 
 | | |
 |---|---|
-| **Practice questions** | 261 (171 Math, 90 Reading and Writing) |
+| **Practice questions** | Over 13,000 for SAT Math and Reading and Writing, with a separate set kept just for timed tests |
 | **Lessons** | 29 (19 Math, 10 Reading and Writing) |
 | **Graphing lessons** | 8, on using a graphing calculator to solve problems faster |
 | **Practice tests** | A full SAT and a short test, both timed |
