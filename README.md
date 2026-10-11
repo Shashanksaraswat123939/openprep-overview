@@ -51,7 +51,7 @@ OpenPrep gives students a question bank, short lessons and timed tests, then cha
 | Saved questions | Bookmark a question and come back to it. |
 | Reminders | Optional study reminders. |
 | Light and dark themes | Easy to read at any hour. |
-| Android app | OpenPrep on your phone. |
+| Works on phones | The site is built for phones as well as computers. |
 
 ## Who it is for
 
